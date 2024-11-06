@@ -1,0 +1,1 @@
+// Recebe req e devolve res, define os metodos dos endpoints, redireciona para business
